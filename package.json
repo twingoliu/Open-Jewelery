@@ -1,0 +1,23 @@
+{
+  "name": "Open Jewelery",
+  "version": "1.0.0",
+  "description": "Open Jewelery project !",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twingoliu/Open-Jewelery.git"
+  },
+  "author": {
+    "name": "TwingoLiu、Numver、jigongfeng"
+  },
+  "license": [{ // 开源协议
+    "type": "Definitions",//"Apache License" ,
+    "url": "https://github.com/twingoliu/Open-Jewelery/LICENSE"
+  }],
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-watch": "^4.3.5",
+    "gulp-webserver": "^0.9.1"
+  }
+}
